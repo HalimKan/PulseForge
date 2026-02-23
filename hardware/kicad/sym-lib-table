@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Symbols")(type "KiCad")(uri "${KIPRJMOD}/Symbols.kicad_sym")(options "")(descr ""))
+  (lib (name "pulseforge")(type "KiCad")(uri "${KIPRJMOD}/symbols/pulseforge.kicad_sym")(options "")(descr ""))
+)
